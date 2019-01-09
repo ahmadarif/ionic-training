@@ -21,7 +21,7 @@ export class DepositPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad DepositPage');
+    console.log('aaaaa ionViewDidLoad DepositPage');
   }
 
   toggle() {
